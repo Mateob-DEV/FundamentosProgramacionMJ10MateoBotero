@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\MateoBotero\FundamentosProgramacionMJ10MateoBotero\3.Operadores\3.Operadores\bin\Debug\3.Operadores.exe.config
+C:\Users\B09S104est\Documents\MateoBotero\FundamentosProgramacionMJ10MateoBotero\3.Operadores\3.Operadores\bin\Debug\3.Operadores.exe
+C:\Users\B09S104est\Documents\MateoBotero\FundamentosProgramacionMJ10MateoBotero\3.Operadores\3.Operadores\bin\Debug\3.Operadores.pdb
+C:\Users\B09S104est\Documents\MateoBotero\FundamentosProgramacionMJ10MateoBotero\3.Operadores\3.Operadores\obj\Debug\3.Operadores.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\MateoBotero\FundamentosProgramacionMJ10MateoBotero\3.Operadores\3.Operadores\obj\Debug\3.Operadores.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\MateoBotero\FundamentosProgramacionMJ10MateoBotero\3.Operadores\3.Operadores\obj\Debug\3.Operadores.exe
+C:\Users\B09S104est\Documents\MateoBotero\FundamentosProgramacionMJ10MateoBotero\3.Operadores\3.Operadores\obj\Debug\3.Operadores.pdb
