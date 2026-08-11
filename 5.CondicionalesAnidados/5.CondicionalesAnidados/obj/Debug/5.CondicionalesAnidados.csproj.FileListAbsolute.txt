@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\MateoBotero\FundamentosProgramacionMJ10MateoBotero\5.CondicionalesAnidados\5.CondicionalesAnidados\bin\Debug\5.CondicionalesAnidados.exe.config
+C:\Users\B09S104est\Documents\MateoBotero\FundamentosProgramacionMJ10MateoBotero\5.CondicionalesAnidados\5.CondicionalesAnidados\bin\Debug\5.CondicionalesAnidados.exe
+C:\Users\B09S104est\Documents\MateoBotero\FundamentosProgramacionMJ10MateoBotero\5.CondicionalesAnidados\5.CondicionalesAnidados\bin\Debug\5.CondicionalesAnidados.pdb
+C:\Users\B09S104est\Documents\MateoBotero\FundamentosProgramacionMJ10MateoBotero\5.CondicionalesAnidados\5.CondicionalesAnidados\obj\Debug\5.CondicionalesAnidados.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\MateoBotero\FundamentosProgramacionMJ10MateoBotero\5.CondicionalesAnidados\5.CondicionalesAnidados\obj\Debug\5.CondicionalesAnidados.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\MateoBotero\FundamentosProgramacionMJ10MateoBotero\5.CondicionalesAnidados\5.CondicionalesAnidados\obj\Debug\5.CondicionalesAnidados.exe
+C:\Users\B09S104est\Documents\MateoBotero\FundamentosProgramacionMJ10MateoBotero\5.CondicionalesAnidados\5.CondicionalesAnidados\obj\Debug\5.CondicionalesAnidados.pdb
