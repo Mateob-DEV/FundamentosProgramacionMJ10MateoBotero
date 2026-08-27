@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\MateoBotero\FundamentosProgramacionMJ10MateoBotero\9.CicloWhile3\bin\Debug\9.CicloWhile3.exe.config
+C:\Users\B09S104est\Documents\MateoBotero\FundamentosProgramacionMJ10MateoBotero\9.CicloWhile3\bin\Debug\9.CicloWhile3.exe
+C:\Users\B09S104est\Documents\MateoBotero\FundamentosProgramacionMJ10MateoBotero\9.CicloWhile3\bin\Debug\9.CicloWhile3.pdb
+C:\Users\B09S104est\Documents\MateoBotero\FundamentosProgramacionMJ10MateoBotero\9.CicloWhile3\obj\Debug\9.CicloWhile3.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\MateoBotero\FundamentosProgramacionMJ10MateoBotero\9.CicloWhile3\obj\Debug\9.CicloWhile3.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\MateoBotero\FundamentosProgramacionMJ10MateoBotero\9.CicloWhile3\obj\Debug\9.CicloWhile3.exe
+C:\Users\B09S104est\Documents\MateoBotero\FundamentosProgramacionMJ10MateoBotero\9.CicloWhile3\obj\Debug\9.CicloWhile3.pdb
