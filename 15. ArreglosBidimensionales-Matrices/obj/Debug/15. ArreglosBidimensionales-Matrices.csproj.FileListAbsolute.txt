@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\MateoBotero\FundamentosProgramacionMJ10MateoBotero\15. ArreglosBidimensionales-Matrices\bin\Debug\_15.ArreglosBidimensionales_Matrices.exe.config
+C:\Users\B09S104est\Documents\MateoBotero\FundamentosProgramacionMJ10MateoBotero\15. ArreglosBidimensionales-Matrices\bin\Debug\_15.ArreglosBidimensionales_Matrices.exe
+C:\Users\B09S104est\Documents\MateoBotero\FundamentosProgramacionMJ10MateoBotero\15. ArreglosBidimensionales-Matrices\bin\Debug\_15.ArreglosBidimensionales_Matrices.pdb
+C:\Users\B09S104est\Documents\MateoBotero\FundamentosProgramacionMJ10MateoBotero\15. ArreglosBidimensionales-Matrices\obj\Debug\15. ArreglosBidimensionales-Matrices.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\MateoBotero\FundamentosProgramacionMJ10MateoBotero\15. ArreglosBidimensionales-Matrices\obj\Debug\15. ArreglosBidimensionales-Matrices.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\MateoBotero\FundamentosProgramacionMJ10MateoBotero\15. ArreglosBidimensionales-Matrices\obj\Debug\_15.ArreglosBidimensionales_Matrices.exe
+C:\Users\B09S104est\Documents\MateoBotero\FundamentosProgramacionMJ10MateoBotero\15. ArreglosBidimensionales-Matrices\obj\Debug\_15.ArreglosBidimensionales_Matrices.pdb
