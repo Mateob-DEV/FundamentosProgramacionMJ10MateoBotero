@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\MateoBotero\FundamentosProgramacionMJ10MateoBotero\17.ProgramacionModular\bin\Debug\17.ProgramacionModular.exe.config
+C:\Users\B09S104est\Documents\MateoBotero\FundamentosProgramacionMJ10MateoBotero\17.ProgramacionModular\bin\Debug\17.ProgramacionModular.exe
+C:\Users\B09S104est\Documents\MateoBotero\FundamentosProgramacionMJ10MateoBotero\17.ProgramacionModular\bin\Debug\17.ProgramacionModular.pdb
+C:\Users\B09S104est\Documents\MateoBotero\FundamentosProgramacionMJ10MateoBotero\17.ProgramacionModular\obj\Debug\17.ProgramacionModular.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\MateoBotero\FundamentosProgramacionMJ10MateoBotero\17.ProgramacionModular\obj\Debug\17.ProgramacionModular.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\MateoBotero\FundamentosProgramacionMJ10MateoBotero\17.ProgramacionModular\obj\Debug\17.ProgramacionModular.exe
+C:\Users\B09S104est\Documents\MateoBotero\FundamentosProgramacionMJ10MateoBotero\17.ProgramacionModular\obj\Debug\17.ProgramacionModular.pdb
