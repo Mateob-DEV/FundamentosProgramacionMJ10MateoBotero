@@ -1,0 +1,2 @@
+C:\Users\B09S104est\Documents\MateoBotero\FundamentosProgramacionMJ10MateoBotero\Taller Matrizes\obj\Debug\Taller Matrizes.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\MateoBotero\FundamentosProgramacionMJ10MateoBotero\Taller Matrizes\obj\Debug\Taller Matrizes.csproj.CoreCompileInputs.cache
