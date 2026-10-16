@@ -1,0 +1,7 @@
+C:\Users\B09S304est\Documents\Valeria Londoño Velasquez\FundamentosProgramacionMJ12ValeriaLondo-o\Taller Condicionales\bin\Debug\Taller Condicionales.exe.config
+C:\Users\B09S304est\Documents\Valeria Londoño Velasquez\FundamentosProgramacionMJ12ValeriaLondo-o\Taller Condicionales\bin\Debug\Taller Condicionales.exe
+C:\Users\B09S304est\Documents\Valeria Londoño Velasquez\FundamentosProgramacionMJ12ValeriaLondo-o\Taller Condicionales\bin\Debug\Taller Condicionales.pdb
+C:\Users\B09S304est\Documents\Valeria Londoño Velasquez\FundamentosProgramacionMJ12ValeriaLondo-o\Taller Condicionales\obj\Debug\Taller Condicionales.csproj.AssemblyReference.cache
+C:\Users\B09S304est\Documents\Valeria Londoño Velasquez\FundamentosProgramacionMJ12ValeriaLondo-o\Taller Condicionales\obj\Debug\Taller Condicionales.csproj.CoreCompileInputs.cache
+C:\Users\B09S304est\Documents\Valeria Londoño Velasquez\FundamentosProgramacionMJ12ValeriaLondo-o\Taller Condicionales\obj\Debug\Taller Condicionales.exe
+C:\Users\B09S304est\Documents\Valeria Londoño Velasquez\FundamentosProgramacionMJ12ValeriaLondo-o\Taller Condicionales\obj\Debug\Taller Condicionales.pdb
