@@ -1,0 +1,7 @@
+C:\Users\B09S304est\Documents\Valeria Londoño Velasquez\FundamentosProgramacionMJ12ValeriaLondo-o\Taller de Ciclos\bin\Debug\Taller de Ciclos.exe.config
+C:\Users\B09S304est\Documents\Valeria Londoño Velasquez\FundamentosProgramacionMJ12ValeriaLondo-o\Taller de Ciclos\bin\Debug\Taller de Ciclos.exe
+C:\Users\B09S304est\Documents\Valeria Londoño Velasquez\FundamentosProgramacionMJ12ValeriaLondo-o\Taller de Ciclos\bin\Debug\Taller de Ciclos.pdb
+C:\Users\B09S304est\Documents\Valeria Londoño Velasquez\FundamentosProgramacionMJ12ValeriaLondo-o\Taller de Ciclos\obj\Debug\Taller de Ciclos.csproj.AssemblyReference.cache
+C:\Users\B09S304est\Documents\Valeria Londoño Velasquez\FundamentosProgramacionMJ12ValeriaLondo-o\Taller de Ciclos\obj\Debug\Taller de Ciclos.csproj.CoreCompileInputs.cache
+C:\Users\B09S304est\Documents\Valeria Londoño Velasquez\FundamentosProgramacionMJ12ValeriaLondo-o\Taller de Ciclos\obj\Debug\Taller de Ciclos.exe
+C:\Users\B09S304est\Documents\Valeria Londoño Velasquez\FundamentosProgramacionMJ12ValeriaLondo-o\Taller de Ciclos\obj\Debug\Taller de Ciclos.pdb
